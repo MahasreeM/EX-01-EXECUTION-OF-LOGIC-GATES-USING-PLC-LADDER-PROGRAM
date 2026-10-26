@@ -1,11 +1,11 @@
 # EXECUTION-OF-LOGIC-GATES-USING-PLC-LADDER-PROGRAM
 
 
- # NAME :
- # REGISTER NUMBER :
- # DEPARTMENT :
- # YEAR :
- # DATE :
+ # NAME : MAHA SHREE M
+ # REGISTER NUMBER : 212224110035
+ # DEPARTMENT : B.E.CSE(IOT)
+ # YEAR : 2026
+ # DATE : 26-10-2026
 
  
 # Aim:
@@ -26,31 +26,47 @@ Logic gates are the fundamental building blocks of digital circuits, and they pr
 
 # Basic Logic Gates:
 AND Gate:
-
 Function: Outputs HIGH only when all inputs are HIGH.
 Ladder Logic: Represented by two or more normally open contacts in series.
-OR Gate:
 
+OR Gate:
 Function: Outputs HIGH when at least one input is HIGH.
 Ladder Logic: Represented by two or more normally open contacts in parallel.
-NOT Gate:
 
+NOT Gate:
 Function: Outputs the inverse of the input signal.
 Ladder Logic: Represented by a normally closed contact.
-NAND Gate:
 
+NAND Gate:
 Function: Outputs LOW only when all inputs are HIGH.
 Ladder Logic: An AND gate followed by a NOT gate.
-NOR Gate:
 
+NOR Gate:
 Function: Outputs LOW when at least one input is HIGH.
 Ladder Logic: An OR gate followed by a NOT gate.
-XOR Gate:
 
+XOR Gate:
 Function: Outputs HIGH when an odd number of inputs are HIGH.
 Ladder Logic: Represented by a combination of AND, OR, and NOT gates.
 # Truth Tables:
- 
+# AND
+<img width="395" height="297" alt="image" src="https://github.com/user-attachments/assets/e2b76b0b-9cd1-40ff-b36e-2b6b50d9ba90" />
+
+# OR
+<img width="386" height="308" alt="image" src="https://github.com/user-attachments/assets/49543241-5aca-4fad-9eb4-6f0cc9b17c1c" />
+
+# NOT
+<img width="256" height="195" alt="image" src="https://github.com/user-attachments/assets/fd5d9cef-df18-4cca-b777-4fda4dab81bc" />
+
+# NAND
+<img width="396" height="302" alt="image" src="https://github.com/user-attachments/assets/5c611f3e-fd44-4a9f-96dc-b32160b545ec" />
+
+# NOR
+<img width="403" height="307" alt="image" src="https://github.com/user-attachments/assets/44a36d9c-5662-42c7-95b6-218795be247f" />
+
+# XOR
+<img width="390" height="302" alt="image" src="https://github.com/user-attachments/assets/3904b998-b98c-47d1-940d-3957ee659e25" />
+
 # Procedure:
 Setup the PLC Programming Environment:
 
@@ -80,7 +96,17 @@ XOR Gate: The output should light up when exactly one input is HIGH.
 
 
 # SIMULATION RESULTS 
+<img width="852" height="532" alt="image" src="https://github.com/user-attachments/assets/a3d58736-2a03-45a2-b892-cff771b73842" />
 
+<img width="1061" height="526" alt="image" src="https://github.com/user-attachments/assets/330806d1-e14f-4cd6-a48a-a773d15910ac" />
+
+<img width="1512" height="410" alt="image" src="https://github.com/user-attachments/assets/69c3fe8f-517e-40a5-936b-de3119dcd6ce" />
+
+<img width="1498" height="375" alt="image" src="https://github.com/user-attachments/assets/b94c35a2-d2f0-4c03-81c9-b8bc99d1560c" />
+
+<img width="1496" height="292" alt="image" src="https://github.com/user-attachments/assets/9f75b0d3-6795-4ff5-8dce-4218d8c2647e" />
+
+<img width="1502" height="305" alt="image" src="https://github.com/user-attachments/assets/f2f871e9-e989-40ed-9b33-29b98f770225" />
 
 # Results:
 
